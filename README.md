@@ -1,5 +1,17 @@
-# Marc Vendrell
+<p align="center">
+  <img
+    src="gifs/typing.gif"
+    alt="Kermit typing on a typewriter"
+    width="420"
+  />
+</p>
 
-- A daily Catalan word game where you find four groups of related words among sixteen tiles. Play [Connectats](https://connectats.app/).
-- A delivery route planner for Damm. [SmartTruck](https://github.com/felitrejos/damm-frontend) assigns drivers and trucks and organizes delivery stops. Our team placed 3rd in the Damm Challenge at InterHackBCN.
-- A procurement tool for deciding when to buy raw materials. [Calés](https://cales.marcvendrell.cat) won the overall prize and the Best Use of Cala award at the Damm x Engineering Hub Hackathon.
+<p align="center">
+  computer engineering @ <b>lasallebcn</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marc-vendrell-feliu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-24292e?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://marcvendrell.cat/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=flat" /></a>
+</p>
