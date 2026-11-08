@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  computer engineering @ <b>lasallebcn</b>
+  computer engineer
 </p>
 
 <p align="center">
